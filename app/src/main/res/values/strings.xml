@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Фильмопоиск</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_connection">No Connection</string>
+    <string name="route_home_screen">HomeScreen</string>
+    <string name="route_splash_screen">SplashScreen</string>
+    <string name="media_txt">Медиа</string>
+    <string name="today_in_filmopoisk_txt">Today in Filmopoisk</string>
+    <string name="popuar_txt">Popular</string>
+    <string name="upcoming_txt">Upcoming</string>
+    <string name="playd_txt"> / Paid</string>
+    <string name="top_rated_txt">Top Rated</string>
+    <string name="detail">Detail</string>
+    <string name="search">Search</string>
+</resources>
